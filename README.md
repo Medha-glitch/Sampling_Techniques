@@ -9,9 +9,9 @@ This project applies five sampling techniques (Random Sampling, Stratified Sampl
 - Evaluated the performance of models using accuracy as a metric.
 
 ### Results
-- **Logistic Regression** performed best with Stratified Sampling.
-- **Decision Tree** achieved the highest accuracy with Stratified Sampling.
-- **Random Forest, KNN, and SVC** performed equally well with Random Sampling.
+- **Logistic Regression** performed best with Stratified Sampling (0.993548).
+- **Decision Tree** achieved the highest accuracy with Stratified Sampling (0.987097).
+- **Random Forest, KNN, and SVC** performed equally well with Random Sampling (0.993548, 0.993548, 0.993548 respectively).
 
 ### Conclusion
 Sampling techniques significantly impact model performance, and the choice depends on the dataset and algorithm.
